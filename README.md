@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @DeionMcCallum.
 - 👀 I’m interested in gaming, sports, and data analysis.
 - 🌱 I’m currently learning ASL and trying to refine my data analyst skills.
+- You can reach me at deionmccallum@gmail.com
 
 <!---
 DeionMcCallum/DeionMcCallum is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
