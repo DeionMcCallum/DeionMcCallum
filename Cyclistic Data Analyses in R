@@ -1,6 +1,6 @@
 #Check and set my working directory
 getwd()
-#setwd()
+setwd()
 
 #Install required packages
 install.packages("tidyverse") #Importing data
